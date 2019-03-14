@@ -1,11 +1,11 @@
 # Site settings
-author: tatiana.mojica
-title: 
+author: Tatiana Mojica 
+title: Reviewing with Sinatra 
 header-img: img/home-bg.png
 email: tatiana.mojica@bustle.com
-copyright_name: tatiana.mojica
+copyright_name: Tatiana Mojica 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Brooklyn Eateries- Believe the Hype! 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tatscru
